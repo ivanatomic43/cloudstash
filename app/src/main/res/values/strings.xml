@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CloudStash</string>
+    <string name="welcome_message">CloudStash</string>
+    <string name="welcome_sign_in_string">Sign in to your account</string>
+    <string name="welcome_first_time_using_app">First time using CloudStash?</string>
+    <string name="welcome_sign_up_here">Sign up here</string>
+    <string name="phone_login">Phone number*</string>
+    <string name="password_login">Password*</string>
+    <string name="description">Message Storage Service</string>
+    <string name="register_string">Create new account</string>
+    <string name="register_firstName">First Name*</string>
+    <string name="register_lastName">Last Name*</string>
+    <string name="register_repeatPassword">Repeat Password*</string>
+    <string name="verification_string">Enter the verification code</string>
+    <string name="verification_code">Verification code</string>
+    <string name="email_login">E-mail*</string>
+</resources>
